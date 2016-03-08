@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="iOS/ProyectoX.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.2" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="7" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProyectoX.Droid AndroidDesignerPreferredDevice="Nexus 5" AndroidDesignerPreferredTheme="Theme.Material.Light.LightStatusBar" />
+</Properties>
